@@ -4,7 +4,6 @@ Echoes of Us is a modern family tree and legacy preservation platform. It allows
 
 ### 🚀 Live Application
 *   **Frontend:** [https://family-tree-frontend-mocha.vercel.app](https://family-tree-frontend-mocha.vercel.app)
-*   **Backend API:** [https://family-tree-backend-production-2630.up.railway.app](https://family-tree-backend-production-2630.up.railway.app)
 
 ---
 
