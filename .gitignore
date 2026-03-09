@@ -1,0 +1,22 @@
+# Node & Environment
+node_modules/
+.env
+*.log
+ui_log.txt
+dev_log.txt
+
+# Media & Uploads
+family_tree/uploads/
+uploads/
+
+# Code & Sub-directories (Private)
+src/
+family-tree-ui/
+
+# Root Level Files (Private)
+package.json
+package-lock.json
+schema.sql
+check_stories_fix.js
+update_stories_schema.js
+GEMINI.md
